@@ -1,0 +1,1282 @@
+{
+  "conversation_id": "conv4_1802-1817",
+  "store_id": "conv4_1802-1817",
+  "staff_ids": [
+    "Customer_A",
+    "Customer_B",
+    "Unknown",
+    "rajiv",
+    "sartaj",
+    "sunita"
+  ],
+  "audio_path": "data/audio/conv4_1802-1817.wav",
+  "segments": [
+    {
+      "id": 1,
+      "start": 197.399,
+      "end": 198.999,
+      "speaker": "sunita",
+      "text": "Yes sir, these are all lab grown."
+    },
+    {
+      "id": 2,
+      "start": 201.239,
+      "end": 204.469,
+      "speaker": "sunita",
+      "text": "Natural one so natural ones and lab gold are different than 60 to 90% they are more affordable."
+    },
+    {
+      "id": 3,
+      "start": 211.75900000000001,
+      "end": 216.56900000000002,
+      "speaker": "rajiv",
+      "text": "Aur vaise strength and wo sab same hi rehta hai? (And otherwise strength and all that remains the same?)"
+    },
+    {
+      "id": 4,
+      "start": 216.56900000000002,
+      "end": 221.879,
+      "speaker": "sunita",
+      "text": "Same, same, because sir, it is a real diamond, just ye lab mein bana hua hai, this is not grown naturally."
+    },
+    {
+      "id": 5,
+      "start": 222.239,
+      "end": 224.75900000000001,
+      "speaker": "sunita",
+      "text": "That's the only difference. So these are solitaires?"
+    },
+    {
+      "id": 6,
+      "start": 235.779,
+      "end": 239.989,
+      "speaker": "rajiv",
+      "text": "Ye wala?"
+    },
+    {
+      "id": 7,
+      "start": 240.679,
+      "end": 242.509,
+      "speaker": "rajiv",
+      "text": "Single stone me bhi aati hai? (Does it also come in single stone?)"
+    },
+    {
+      "id": 8,
+      "start": 242.509,
+      "end": 243.499,
+      "speaker": "rajiv",
+      "text": "Kitna padta hai wo? (How much does that cost?)"
+    },
+    {
+      "id": 9,
+      "start": 244.289,
+      "end": 249.679,
+      "speaker": "sunita",
+      "text": "Mam, according to usmein dekhna padega, color clarity aap kaunsa le rahe ho, and caratage kaunsa jayega. (Ma'am, according to that we'll have to see, what color clarity you're taking, and what caratage will be.)"
+    },
+    {
+      "id": 10,
+      "start": 249.849,
+      "end": 251.239,
+      "speaker": "Customer_B",
+      "text": "isko bhi acha colour clarity hoga"
+    },
+    {
+      "id": 11,
+      "start": 252.22899999999998,
+      "end": 256.489,
+      "speaker": "sunita",
+      "text": "Yes sir, jaise diamond mein four C's hote hai, cut, color, caratage, so ismein bhi same hi hoga."
+    },
+    {
+      "id": 12,
+      "start": 256.489,
+      "end": 257.929,
+      "speaker": "Customer_B",
+      "text": "These are diamonds only?"
+    },
+    {
+      "id": 13,
+      "start": 258.069,
+      "end": 258.669,
+      "speaker": "sunita",
+      "text": "Exactly."
+    },
+    {
+      "id": 14,
+      "start": 261.399,
+      "end": 262.429,
+      "speaker": "Customer_A",
+      "text": "Aisa kuch bhi nahi hai?"
+    },
+    {
+      "id": 15,
+      "start": 263.009,
+      "end": 264.479,
+      "speaker": "Customer_A",
+      "text": "Total one in one?"
+    },
+    {
+      "id": 16,
+      "start": 265.409,
+      "end": 266.799,
+      "speaker": "sunita",
+      "text": "This one is short percent."
+    },
+    {
+      "id": 17,
+      "start": 267.799,
+      "end": 269.289,
+      "speaker": "sunita",
+      "text": "Isse chote mam ye wale hai."
+    },
+    {
+      "id": 18,
+      "start": 269.629,
+      "end": 271.259,
+      "speaker": "Customer_A",
+      "text": "Yahi sabse chote hai?"
+    },
+    {
+      "id": 19,
+      "start": 271.369,
+      "end": 273.499,
+      "speaker": "sunita",
+      "text": "Yes mam, abhi available itne chote hai mere paas."
+    },
+    {
+      "id": 20,
+      "start": 277.499,
+      "end": 278.299,
+      "speaker": "Customer_B",
+      "text": "Ye kitne carat ka hoga?"
+    },
+    {
+      "id": 21,
+      "start": 278.299,
+      "end": 278.649,
+      "speaker": "rajiv",
+      "text": "Ye wala?"
+    },
+    {
+      "id": 22,
+      "start": 279.159,
+      "end": 285.339,
+      "speaker": "sunita",
+      "text": "Ye wala, I guess, ye total five carat hai sir. 2.5, 2.5 each."
+    },
+    {
+      "id": 23,
+      "start": 287.019,
+      "end": 287.889,
+      "speaker": "Customer_B",
+      "text": "2.5, 2.5"
+    },
+    {
+      "id": 24,
+      "start": 287.889,
+      "end": 288.519,
+      "speaker": "sunita",
+      "text": "Yes sir."
+    },
+    {
+      "id": 25,
+      "start": 289.889,
+      "end": 294.349,
+      "speaker": "sunita",
+      "text": "Sabse bade mere paas ye wale hai, eight eight carat each, four four carat each."
+    },
+    {
+      "id": 26,
+      "start": 294.919,
+      "end": 295.939,
+      "speaker": "sunita",
+      "text": "This is eight carat."
+    },
+    {
+      "id": 27,
+      "start": 297.659,
+      "end": 298.829,
+      "speaker": "Customer_A",
+      "text": "What would be the price?"
+    },
+    {
+      "id": 28,
+      "start": 299.399,
+      "end": 300.089,
+      "speaker": "sunita",
+      "text": "Nine carat."
+    },
+    {
+      "id": 29,
+      "start": 301.079,
+      "end": 305.109,
+      "speaker": "Customer_B",
+      "text": "Actually, just to understand, how would you compare natural diamonds to lab grown?"
+    },
+    {
+      "id": 30,
+      "start": 306.669,
+      "end": 309.119,
+      "speaker": "sunita",
+      "text": "Kaunse wale ka price puchha tha sir?"
+    },
+    {
+      "id": 31,
+      "start": 309.689,
+      "end": 312.729,
+      "speaker": "Customer_B",
+      "text": "Na, for comparison, not for this one, just for comparison."
+    },
+    {
+      "id": 32,
+      "start": 312.989,
+      "end": 313.299,
+      "speaker": "sunita",
+      "text": "isko bata do"
+    },
+    {
+      "id": 33,
+      "start": 315.689,
+      "end": 316.899,
+      "speaker": "Customer_B",
+      "text": "Eight blues two carat."
+    },
+    {
+      "id": 34,
+      "start": 317.429,
+      "end": 319.999,
+      "speaker": "sunita",
+      "text": "No sir, sir, ye natural one."
+    },
+    {
+      "id": 35,
+      "start": 320.179,
+      "end": 320.899,
+      "speaker": "Customer_B",
+      "text": "Achcha, achcha."
+    },
+    {
+      "id": 36,
+      "start": 322.469,
+      "end": 327.429,
+      "speaker": "sunita",
+      "text": "So sir, ismein jo diamonds hai total 73 cent ke hai, so like 30-40 cent each honge."
+    },
+    {
+      "id": 37,
+      "start": 329.629,
+      "end": 333.279,
+      "speaker": "Customer_B",
+      "text": "EF, EF color, so ye wala 30 cent ka."
+    },
+    {
+      "id": 38,
+      "start": 333.279,
+      "end": 337.499,
+      "speaker": "sunita",
+      "text": "Ha, so it's like a solitaire jo minimum criteria to solitaire choose karne ke liye, this is that one."
+    },
+    {
+      "id": 39,
+      "start": 338.089,
+      "end": 341.249,
+      "speaker": "sunita",
+      "text": "So ismein jo color hai EF color, VVS, VS clarity, dono hai."
+    },
+    {
+      "id": 40,
+      "start": 341.979,
+      "end": 348.799,
+      "speaker": "sunita",
+      "text": "Before discount is 35,918 rupees, after discount 33,272 rupees."
+    },
+    {
+      "id": 41,
+      "start": 358.219,
+      "end": 365.959,
+      "speaker": "Customer_B",
+      "text": "Aur ye just trying to understand how agar comparable hai real diamond mein, ye to isse mehenga padega na?"
+    },
+    {
+      "id": 42,
+      "start": 366.339,
+      "end": 370.59,
+      "speaker": "sunita",
+      "text": "Sir, in this color and clarity, sir, aapko ye dedh lakh se zyada padega."
+    },
+    {
+      "id": 43,
+      "start": 375.939,
+      "end": 392.789,
+      "speaker": "sunita",
+      "text": "Agar aap normally dekhoge jo natural mein chalta hai, S I N G H, esa clarity aur G H colour, usmein 30 cent dedh dedh lakhs ke aate hai, if I compare to like a higher brand like Tanishq. Caratlane mein jayenge to wo bhi 1.5 se wo start hona start kar dega, in this color clarity mein."
+    },
+    {
+      "id": 44,
+      "start": 393.589,
+      "end": 397.899,
+      "speaker": "sunita",
+      "text": "Even so, mam, natural diamond mein ye color clarity milna bhi mushkil hai."
+    },
+    {
+      "id": 45,
+      "start": 397.899,
+      "end": 398.589,
+      "speaker": "sunita",
+      "text": "It's really rare."
+    },
+    {
+      "id": 46,
+      "start": 401.139,
+      "end": 403.79,
+      "speaker": "Customer_B",
+      "text": "Aur ye jaise ye wala dikha rahe ho."
+    },
+    {
+      "id": 47,
+      "start": 405.099,
+      "end": 406.99,
+      "speaker": "Customer_B",
+      "text": "Ye sub carating hai?"
+    },
+    {
+      "id": 48,
+      "start": 406.099,
+      "end": 407.389,
+      "speaker": "Customer_B",
+      "text": "This is four carat."
+    },
+    {
+      "id": 49,
+      "start": 408.339,
+      "end": 408.569,
+      "speaker": "sunita",
+      "text": "Yeah."
+    },
+    {
+      "id": 50,
+      "start": 409.779,
+      "end": 410.739,
+      "speaker": "sunita",
+      "text": "It's five carat."
+    },
+    {
+      "id": 51,
+      "start": 411.109,
+      "end": 411.849,
+      "speaker": "Customer_B",
+      "text": "Total five carat."
+    },
+    {
+      "id": 52,
+      "start": 411.849,
+      "end": 412.289,
+      "speaker": "sunita",
+      "text": "Yes sir."
+    },
+    {
+      "id": 53,
+      "start": 412.519,
+      "end": 413.649,
+      "speaker": "Customer_B",
+      "text": "Five zero, three."
+    },
+    {
+      "id": 54,
+      "start": 421.379,
+      "end": 428.719,
+      "speaker": "sunita",
+      "text": "So sir, this is in F color, one of the best color, and VS1 clarity. Total 5 carat, 10 cent hai."
+    },
+    {
+      "id": 55,
+      "start": 429.679,
+      "end": 433.919,
+      "speaker": "sunita",
+      "text": "Before discount 3,17,799 rupees."
+    },
+    {
+      "id": 56,
+      "start": 434.659,
+      "end": 447.139,
+      "speaker": "sunita",
+      "text": "After discount 2,60,016 rupees. Sir, ispe 20% flat off hai solitaires pe. Abhi discount hamara chal raha hai. Solitaire 1 carat above hai toh 20% off, usse niche aa raha hai toh 10% off."
+    },
+    {
+      "id": 57,
+      "start": 451.299,
+      "end": 454.509,
+      "speaker": "sunita",
+      "text": "Ismein jo gold hai 18 carat gold hai, 3.03 grams."
+    },
+    {
+      "id": 58,
+      "start": 454.939,
+      "end": 457.919,
+      "speaker": "sunita",
+      "text": "Agar aap valuable dekhenge, this is the breakup. You can have a look at it."
+    },
+    {
+      "id": 59,
+      "start": 458.30899999999997,
+      "end": 463.349,
+      "speaker": "Customer_B",
+      "text": "So exchange including the gold and everything? Yeah, everything, making GST and everything."
+    },
+    {
+      "id": 60,
+      "start": 464.029,
+      "end": 468.889,
+      "speaker": "sunita",
+      "text": "It is 55,000 per carat for E VVS, F VVS."
+    },
+    {
+      "id": 61,
+      "start": 469.779,
+      "end": 471.109,
+      "speaker": "sunita",
+      "text": "Ismein gold 23 ka hai."
+    },
+    {
+      "id": 62,
+      "start": 473.30899999999997,
+      "end": 475.779,
+      "speaker": "Customer_B",
+      "text": "Ye to abhi karke dekh sakte hai."
+    },
+    {
+      "id": 63,
+      "start": 476.889,
+      "end": 477.699,
+      "speaker": "rajiv",
+      "text": "Try it."
+    },
+    {
+      "id": 64,
+      "start": 478.339,
+      "end": 479.509,
+      "speaker": "Customer_A",
+      "text": "Ye sahi lag raha hai."
+    },
+    {
+      "id": 65,
+      "start": 480.089,
+      "end": 481.899,
+      "speaker": "rajiv",
+      "text": "I will try it."
+    },
+    {
+      "id": 66,
+      "start": 481.899,
+      "end": 483.259,
+      "speaker": "sunita",
+      "text": "Aap try karke dekhna."
+    },
+    {
+      "id": 67,
+      "start": 483.359,
+      "end": 483.959,
+      "speaker": "sunita",
+      "text": "You can try it on."
+    },
+    {
+      "id": 68,
+      "start": 484.539,
+      "end": 485.479,
+      "speaker": "sunita",
+      "text": "Let me help you."
+    },
+    {
+      "id": 69,
+      "start": 485.909,
+      "end": 486.949,
+      "speaker": "Customer_A",
+      "text": "This one is like this."
+    },
+    {
+      "id": 70,
+      "start": 487.419,
+      "end": 488.579,
+      "speaker": "Customer_A",
+      "text": "This one's like this."
+    },
+    {
+      "id": 71,
+      "start": 488.799,
+      "end": 489.919,
+      "speaker": "Customer_A",
+      "text": "Ha, I'm not going to wear it."
+    },
+    {
+      "id": 72,
+      "start": 490.749,
+      "end": 494.399,
+      "speaker": "sunita",
+      "text": "Bas ye safer bhi hota hai, like iska screw na, so nikalta nahi jaldi."
+    },
+    {
+      "id": 73,
+      "start": 497.069,
+      "end": 498.069,
+      "speaker": "Customer_B",
+      "text": "I won't wear it."
+    },
+    {
+      "id": 74,
+      "start": 498.579,
+      "end": 499.469,
+      "speaker": "Customer_B",
+      "text": "This will be, ha, hai."
+    },
+    {
+      "id": 75,
+      "start": 499.689,
+      "end": 501.069,
+      "speaker": "sunita",
+      "text": "Achha, wo pehnte ho zaada mam?"
+    },
+    {
+      "id": 76,
+      "start": 501.069,
+      "end": 509.479,
+      "speaker": "sunita",
+      "text": "Nahi isme na presence ki baat hoti hai. Ye chubhta hai, matlab, ha, wo chubhega. But like isse safety ki wo jo na, lock ho jata hai. Uske liye. Ye chubhta hai, that's sure."
+    },
+    {
+      "id": 77,
+      "start": 509.699,
+      "end": 515.329,
+      "speaker": "sunita",
+      "text": "Uske liye presser jo South screw hote hai jo ekdum blended hote hai, nose pin mein paaye jaate hai mostly, us wale wo wale kaafi acche hote hai."
+    },
+    {
+      "id": 78,
+      "start": 515.809,
+      "end": 517.779,
+      "speaker": "sunita",
+      "text": "Agar aapko usmein chahiye, we can make it on order."
+    },
+    {
+      "id": 79,
+      "start": 518.219,
+      "end": 524.29,
+      "speaker": "Customer_A",
+      "text": "Ye jaise aapne bataya, matlab you'll have to feel properly, but you have to purchase this in a pair only, right?"
+    },
+    {
+      "id": 80,
+      "start": 524.599,
+      "end": 524.979,
+      "speaker": "sunita",
+      "text": "Yes mam."
+    },
+    {
+      "id": 81,
+      "start": 525.699,
+      "end": 526.469,
+      "speaker": "sunita",
+      "text": "Ye pair mein jayega."
+    },
+    {
+      "id": 82,
+      "start": 527.019,
+      "end": 528.869,
+      "speaker": "Customer_B",
+      "text": "33,000 for one and?"
+    },
+    {
+      "id": 83,
+      "start": 529.239,
+      "end": 529.889,
+      "speaker": "sunita",
+      "text": "For two."
+    },
+    {
+      "id": 84,
+      "start": 530.569,
+      "end": 531.0,
+      "speaker": "sunita",
+      "text": "For two."
+    },
+    {
+      "id": 85,
+      "start": 534.679,
+      "end": 535.0889999999999,
+      "speaker": "Customer_B",
+      "text": "Kabhi?"
+    },
+    {
+      "id": 86,
+      "start": 536.549,
+      "end": 537.659,
+      "speaker": "Customer_B",
+      "text": "Kabhi change kara toh?"
+    },
+    {
+      "id": 87,
+      "start": 539.429,
+      "end": 543.969,
+      "speaker": "sunita",
+      "text": "And ispe hamara buyback and exchange policies we both we both have."
+    },
+    {
+      "id": 88,
+      "start": 544.289,
+      "end": 546.19,
+      "speaker": "sunita",
+      "text": "Even we have 15 days look up period."
+    },
+    {
+      "id": 89,
+      "start": 546.199,
+      "end": 548.579,
+      "speaker": "Customer_B",
+      "text": "Oh, acha, waha pe kya hai?"
+    },
+    {
+      "id": 90,
+      "start": 548.769,
+      "end": 549.919,
+      "speaker": "Customer_B",
+      "text": "Achha, achha."
+    },
+    {
+      "id": 91,
+      "start": 549.919,
+      "end": 550.59,
+      "speaker": "sunita",
+      "text": "Kaafi acha."
+    },
+    {
+      "id": 92,
+      "start": 551.399,
+      "end": 557.379,
+      "speaker": "sunita",
+      "text": "Exactly, so is store mein sabse zyada solitaire hi sold hota hai mostly, isliye humne alag se solitaire ka hi pura section hai."
+    },
+    {
+      "id": 93,
+      "start": 557.619,
+      "end": 567.799,
+      "speaker": "sunita",
+      "text": "We have earrings and rings as well, jo ki baaki kisi store mein utna nahi milega aapko jitna is store mein hai. Because Gurgaon itself is a very high value area. So kafi acha response hai uska."
+    },
+    {
+      "id": 94,
+      "start": 570.299,
+      "end": 572.619,
+      "speaker": "sunita",
+      "text": "Even aapka bhi kuch design hai, we can customize it as well."
+    },
+    {
+      "id": 95,
+      "start": 573.099,
+      "end": 581.4590000000001,
+      "speaker": "sunita",
+      "text": "We have a website as well. Aapko kuch acha lagta hai, you can forward it to us. Kahin bhi kisi store mein available hoga toh hum aapke liye mangwa denge for you to see before you purchase."
+    },
+    {
+      "id": 96,
+      "start": 582.149,
+      "end": 584.759,
+      "speaker": "sunita",
+      "text": "Ab jewelry hai without dekhe kaise purchase karega."
+    },
+    {
+      "id": 97,
+      "start": 585.199,
+      "end": 586.369,
+      "speaker": "sunita",
+      "text": "So wo mangwa sakte aapke liye."
+    },
+    {
+      "id": 98,
+      "start": 592.219,
+      "end": 596.579,
+      "speaker": "sunita",
+      "text": "So sir, purchasing for any occasion? Just for daily wear?"
+    },
+    {
+      "id": 99,
+      "start": 597.489,
+      "end": 598.379,
+      "speaker": "Customer_B",
+      "text": "Nahi actually,"
+    },
+    {
+      "id": 100,
+      "start": 599.2090000000001,
+      "end": 604.999,
+      "speaker": "Customer_B",
+      "text": "Ye to yahan se nikalta hai, and quality, and check color kitna farak padta hai?"
+    },
+    {
+      "id": 101,
+      "start": 605.489,
+      "end": 606.909,
+      "speaker": "sunita",
+      "text": "Value wise to mam, value badhega."
+    },
+    {
+      "id": 102,
+      "start": 607.499,
+      "end": 610.999,
+      "speaker": "Customer_B",
+      "text": "Value wise and appearance wise, is there anything different than use of 90?"
+    },
+    {
+      "id": 103,
+      "start": 611.759,
+      "end": 616.149,
+      "speaker": "sunita",
+      "text": "Yeah, so inmein jo kya hoga sir, color clarity kafi higher side mein hai so ye, they shine brighter."
+    },
+    {
+      "id": 104,
+      "start": 616.489,
+      "end": 619.349,
+      "speaker": "sunita",
+      "text": "Same agar same carat aap natural mein lenge, kuch difference nahi aayega."
+    },
+    {
+      "id": 105,
+      "start": 619.789,
+      "end": 624.5889999999999,
+      "speaker": "sunita",
+      "text": "Like even jo experts hai, they cannot differentiate it ki ye lab grown hai, ya aur natural hai."
+    },
+    {
+      "id": 106,
+      "start": 625.269,
+      "end": 628.959,
+      "speaker": "sunita",
+      "text": "Only certifications hai jo high equipments hai, unke pata chal sakta hai, higher end equipments mein."
+    },
+    {
+      "id": 107,
+      "start": 631.699,
+      "end": 632.499,
+      "speaker": "Customer_B",
+      "text": "Waha pe surat?"
+    },
+    {
+      "id": 108,
+      "start": 633.279,
+      "end": 634.789,
+      "speaker": "sunita",
+      "text": "Surat? Surat to cutting polish mein hoti hai."
+    },
+    {
+      "id": 109,
+      "start": 635.349,
+      "end": 640.409,
+      "speaker": "sunita",
+      "text": "Sabke alag alag labs hai jo create karte hai, then wo surat mein cutting polish hota hai, then wo vendors ke paas jata hai."
+    },
+    {
+      "id": 110,
+      "start": 641.019,
+      "end": 644.2090000000001,
+      "speaker": "sunita",
+      "text": "So we have our in-house designing and production at all."
+    },
+    {
+      "id": 111,
+      "start": 644.599,
+      "end": 645.399,
+      "speaker": "sunita",
+      "text": "Hum usmein se karvate hai."
+    },
+    {
+      "id": 112,
+      "start": 646.229,
+      "end": 649.0,
+      "speaker": "Customer_B",
+      "text": "Aapki website pe or for all options?"
+    },
+    {
+      "id": 113,
+      "start": 649.629,
+      "end": 653.479,
+      "speaker": "sunita",
+      "text": "Aur bhi options honge sir, but mostly wo designs hai, wo readymade products nahi hote."
+    },
+    {
+      "id": 114,
+      "start": 653.799,
+      "end": 657.0,
+      "speaker": "Customer_B",
+      "text": "That's why sir, sir, select karke usko aapko."
+    },
+    {
+      "id": 115,
+      "start": 657.489,
+      "end": 662.829,
+      "speaker": "sunita",
+      "text": "Ha, agar aapko online kuch acha lagta hai, if you want to store ke through order place karna, you can do that as well."
+    },
+    {
+      "id": 116,
+      "start": 663.409,
+      "end": 670.149,
+      "speaker": "sunita",
+      "text": "So order place karne ke baad kya hoga ki two to three days mein you'll receive a CAD, CAD image mein wo kaisa banega, details likhi honge usmein."
+    },
+    {
+      "id": 117,
+      "start": 670.599,
+      "end": 674.289,
+      "speaker": "sunita",
+      "text": "In case you want to change anything, to improve anything, you can do that."
+    },
+    {
+      "id": 118,
+      "start": 674.869,
+      "end": 682.429,
+      "speaker": "sunita",
+      "text": "Jab aap approve karenge then wo product make ke liye jayega, production mein jayega, wo banega, then certification, hallmarking, everything wo sab done hoga."
+    },
+    {
+      "id": 119,
+      "start": 682.759,
+      "end": 685.599,
+      "speaker": "sunita",
+      "text": "Toh uske liye 20 to 25 days ka hum time lete hai."
+    },
+    {
+      "id": 120,
+      "start": 688.189,
+      "end": 690.689,
+      "speaker": "sunita",
+      "text": "And if you want, deliver karte hai, we can deliver it as well."
+    },
+    {
+      "id": 121,
+      "start": 691.579,
+      "end": 697.899,
+      "speaker": "sunita",
+      "text": "We have one store in Lajpat Nagar, if you want you can check it out. Noida we are opening soon this month only."
+    },
+    {
+      "id": 122,
+      "start": 701.879,
+      "end": 702.509,
+      "speaker": "Customer_B",
+      "text": "Instgram kya hoga aapka?"
+    },
+    {
+      "id": 123,
+      "start": 703.079,
+      "end": 704.2090000000001,
+      "speaker": "sunita",
+      "text": "jewelbox.co.in."
+    },
+    {
+      "id": 124,
+      "start": 704.2090000000001,
+      "end": 705.549,
+      "speaker": "sunita",
+      "text": "Main aapko card de deti hu ek bar."
+    },
+    {
+      "id": 125,
+      "start": 707.379,
+      "end": 708.789,
+      "speaker": "sunita",
+      "text": "Sir, mam may I have a number?"
+    },
+    {
+      "id": 126,
+      "start": 710.0,
+      "end": 710.299,
+      "speaker": "sunita",
+      "text": "Yes mam."
+    },
+    {
+      "id": 127,
+      "start": 711.359,
+      "end": 718.119,
+      "speaker": "Customer_A",
+      "text": "9810782593."
+    },
+    {
+      "id": 128,
+      "start": 719.2090000000001,
+      "end": 720.679,
+      "speaker": "sunita",
+      "text": "Mam, may I know your name please?"
+    },
+    {
+      "id": 129,
+      "start": 721.309,
+      "end": 721.609,
+      "speaker": "Customer_A",
+      "text": "Pooja."
+    },
+    {
+      "id": 130,
+      "start": 723.359,
+      "end": 725.159,
+      "speaker": "sunita",
+      "text": "Mam, what would be the surname?"
+    },
+    {
+      "id": 131,
+      "start": 726.339,
+      "end": 736.489,
+      "speaker": "Customer_A",
+      "text": "Parameshwaran. P A R A M E S W A R A N."
+    },
+    {
+      "id": 132,
+      "start": 737.519,
+      "end": 741.849,
+      "speaker": "rajiv",
+      "text": "Ye"
+    },
+    {
+      "id": 133,
+      "start": 742.099,
+      "end": 742.619,
+      "speaker": "sunita",
+      "text": "Yeah, it is an emerald cut."
+    },
+    {
+      "id": 134,
+      "start": 742.619,
+      "end": 745.0,
+      "speaker": "sunita",
+      "text": "Yeah, it is an emerald cut."
+    },
+    {
+      "id": 135,
+      "start": 746.0,
+      "end": 747.239,
+      "speaker": "Unknown",
+      "text": "Yeah, this is emerald cut as well."
+    },
+    {
+      "id": 136,
+      "start": 751.429,
+      "end": 751.959,
+      "speaker": "Customer_B",
+      "text": "How many carat?"
+    },
+    {
+      "id": 137,
+      "start": 752.419,
+      "end": 752.749,
+      "speaker": "Customer_B",
+      "text": "I guess."
+    },
+    {
+      "id": 138,
+      "start": 753.379,
+      "end": 754.2090000000001,
+      "speaker": "Customer_B",
+      "text": "Ha, not sure."
+    },
+    {
+      "id": 139,
+      "start": 755.39,
+      "end": 755.689,
+      "speaker": "sunita",
+      "text": "This one?"
+    },
+    {
+      "id": 140,
+      "start": 755.989,
+      "end": 756.989,
+      "speaker": "sunita",
+      "text": "This is the 1 carat."
+    },
+    {
+      "id": 141,
+      "start": 758.309,
+      "end": 758.939,
+      "speaker": "Customer_B",
+      "text": "1 carat?"
+    },
+    {
+      "id": 142,
+      "start": 759.119,
+      "end": 759.389,
+      "speaker": "sunita",
+      "text": "Yes sir."
+    },
+    {
+      "id": 143,
+      "start": 762.509,
+      "end": 765.699,
+      "speaker": "sunita",
+      "text": "And mam, similar shape mein you want more shine, then you can go with this cut."
+    },
+    {
+      "id": 144,
+      "start": 766.069,
+      "end": 768.0,
+      "speaker": "sunita",
+      "text": "If you see the design over here."
+    },
+    {
+      "id": 145,
+      "start": 768.479,
+      "end": 772.889,
+      "speaker": "Customer_A",
+      "text": "Or like why is this less shiny, because this looks like glass to me?"
+    },
+    {
+      "id": 146,
+      "start": 773.259,
+      "end": 776.289,
+      "speaker": "sunita",
+      "text": "Glass, actually mam this, the cutting over done is step cut."
+    },
+    {
+      "id": 147,
+      "start": 776.769,
+      "end": 781.379,
+      "speaker": "sunita",
+      "text": "And this one is faceted cut. So which is a, which pro, produce more brilliance."
+    },
+    {
+      "id": 148,
+      "start": 782.139,
+      "end": 785.109,
+      "speaker": "sunita",
+      "text": "Shape uska rectangle hai, ye emerald cut hai."
+    },
+    {
+      "id": 149,
+      "start": 788.689,
+      "end": 789.999,
+      "speaker": "Customer_B",
+      "text": "Iske andar ka different hai kya?"
+    },
+    {
+      "id": 150,
+      "start": 790.229,
+      "end": 792.189,
+      "speaker": "sunita",
+      "text": "Ha wo aisa step by step cut kiya gaya, exactly."
+    },
+    {
+      "id": 151,
+      "start": 794.369,
+      "end": 797.379,
+      "speaker": "sunita",
+      "text": "Mostly ye emerald mein zyada cut kiya jata hai, that's why it's called emerald cut."
+    },
+    {
+      "id": 152,
+      "start": 797.769,
+      "end": 798.99,
+      "speaker": "rajiv",
+      "text": "Radiant cut."
+    },
+    {
+      "id": 153,
+      "start": 798.999,
+      "end": 799.499,
+      "speaker": "rajiv",
+      "text": "Yes sir."
+    },
+    {
+      "id": 154,
+      "start": 800.179,
+      "end": 801.199,
+      "speaker": "sunita",
+      "text": "And this is a radiant cut."
+    },
+    {
+      "id": 155,
+      "start": 801.419,
+      "end": 802.569,
+      "speaker": "Customer_B",
+      "text": "Is that the same?"
+    },
+    {
+      "id": 156,
+      "start": 803.779,
+      "end": 805.79,
+      "speaker": "Customer_B",
+      "text": "Initially it looks the same here."
+    },
+    {
+      "id": 157,
+      "start": 805.469,
+      "end": 805.809,
+      "speaker": "sunita",
+      "text": "Exactly."
+    },
+    {
+      "id": 158,
+      "start": 807.129,
+      "end": 808.529,
+      "speaker": "sunita",
+      "text": "Classic design mam."
+    },
+    {
+      "id": 159,
+      "start": 809.159,
+      "end": 810.939,
+      "speaker": "Customer_B",
+      "text": "Lab ko pasand nahi aaye kya?"
+    },
+    {
+      "id": 160,
+      "start": 810.939,
+      "end": 812.229,
+      "speaker": "Customer_B",
+      "text": "Le ke aaye the..."
+    },
+    {
+      "id": 161,
+      "start": 816.0,
+      "end": 818.699,
+      "speaker": "sartaj",
+      "text": "We'll customize your design as well if you like any."
+    },
+    {
+      "id": 162,
+      "start": 827.389,
+      "end": 832.199,
+      "speaker": "Customer_A",
+      "text": "Ye kitne ab, matlab we know how much the real diamond one cost, how much is this cost?"
+    },
+    {
+      "id": 163,
+      "start": 832.7090000000001,
+      "end": 833.949,
+      "speaker": "sunita",
+      "text": "Price of this is this diamond."
+    },
+    {
+      "id": 164,
+      "start": 833.949,
+      "end": 834.679,
+      "speaker": "Customer_A",
+      "text": "This diamond is bigger."
+    },
+    {
+      "id": 165,
+      "start": 840.329,
+      "end": 840.679,
+      "speaker": "sunita",
+      "text": "This one?"
+    },
+    {
+      "id": 166,
+      "start": 842.0,
+      "end": 842.269,
+      "speaker": "Customer_A",
+      "text": "Ha."
+    },
+    {
+      "id": 167,
+      "start": 844.289,
+      "end": 845.0,
+      "speaker": "Customer_A",
+      "text": "Kaunse?"
+    },
+    {
+      "id": 168,
+      "start": 845.0,
+      "end": 848.0,
+      "speaker": "Customer_A",
+      "text": "Aur double jagah pe."
+    },
+    {
+      "id": 169,
+      "start": 848.579,
+      "end": 853.149,
+      "speaker": "sunita",
+      "text": "Ye 1 carat, 2 cent mein hai, the color is E color, VS1 clarity."
+    },
+    {
+      "id": 170,
+      "start": 854.349,
+      "end": 855.549,
+      "speaker": "sunita",
+      "text": "And 18 carat gold again."
+    },
+    {
+      "id": 171,
+      "start": 856.109,
+      "end": 859.469,
+      "speaker": "sunita",
+      "text": "Before discount 92,592 rupees."
+    },
+    {
+      "id": 172,
+      "start": 862.429,
+      "end": 865.869,
+      "speaker": "sunita",
+      "text": "After discount, after discount 80,510 rupees."
+    },
+    {
+      "id": 173,
+      "start": 867.579,
+      "end": 872.0,
+      "speaker": "Customer_A",
+      "text": "I think the stone was bigger, the stone is bigger than the one, this one is bigger, right?"
+    },
+    {
+      "id": 174,
+      "start": 872.469,
+      "end": 875.0,
+      "speaker": "sunita",
+      "text": "You won't get two cent, so more than one carat."
+    },
+    {
+      "id": 175,
+      "start": 877.0,
+      "end": 877.769,
+      "speaker": "Customer_B",
+      "text": "Humara aisa hai."
+    },
+    {
+      "id": 176,
+      "start": 878.549,
+      "end": 882.279,
+      "speaker": "Customer_A",
+      "text": "You want like double for the entire time."
+    },
+    {
+      "id": 177,
+      "start": 886.369,
+      "end": 886.859,
+      "speaker": "Customer_B",
+      "text": "Chalo."
+    },
+    {
+      "id": 178,
+      "start": 887.3389999999999,
+      "end": 887.889,
+      "speaker": "Customer_B",
+      "text": "Sure."
+    },
+    {
+      "id": 181,
+      "start": 890.319,
+      "end": 891.689,
+      "speaker": "sunita",
+      "text": "Thank you so much for stopping by."
+    },
+    {
+      "id": 182,
+      "start": 891.819,
+      "end": 892.199,
+      "speaker": "Customer_A",
+      "text": "Thank you."
+    },
+    {
+      "id": 183,
+      "start": 892.489,
+      "end": 893.869,
+      "speaker": "sunita",
+      "text": "Thank you mam, have a great day."
+    }
+  ]
+}
