@@ -1,1 +1,7 @@
-    write code to print prime number
+A logistics company wants to monitor stock movements across its warehouses over a specified period to evaluate operational efficiency. They aim to track how many  products were moved and the total quantity of stock transferred per warehouse, ensuring that only warehouses handling more than one type of product are considered.To achieve this, they require a query that retrieves warehouse IDs, counts the number of  products moved, calculates the total quantity transferred, filters out warehouses that handled only one product, and sorts the results in descending order by warehouse ID.
+
+The result should have the following columns:  warehouse_idtotal_products_movedtotal_quantity_movedwarehouse_id- the unique identifier for each warehouse.
+
+    total_products_moved- the total number of products that have been moved from the warehousetotal_quantity_moved- the total quantity of products that have been moved from the warehouseSort the results in descending order based on the warehouse ID.
+
+Rules:  Filter records to include only warehouses where the movement date is from '2024-06-01' to '2024-12-31' and the total number of products moved is greater than 1.
