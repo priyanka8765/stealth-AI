@@ -1,119 +1,110 @@
-FixItNow
-        
+Virtual Fitness Trainer
+                  
                         Description
+ 
+    The Flex Core Gym is a fitness and wellness center. The management has decided to compute a virtual personalized fitness score for each session based on the exercise type, repetitions, and duration. As a programmer, help the trainer evaluate these sessions effectively.
+    Functional Requirements:
+    
+        
+            
+                Req. #
+                Requirements Description
+                 Type (Class)
+                Method Name
+                Parameters 
+                Responsibilities
+            
+        
+        
+            
+                1.
+                Extract the details of the workout session and create an object for the WorkoutSession class.
+                 WorkoutUtility 
+                extractSessionDetails
+                String sessionDetails
+                This method accepts workout session details as a colon-separated string in the format (sessionId:exerciseType:reps:duration). It parses the values, validates them, and returns a populated WorkoutSession object.
+            
+            
+                2.
+                Calculate the fitness score of the workout.
+                 WorkoutSession
+                calculateFitnessScore  
+                 
+                This method calculates and returns the fitness score of a workout session. The fitness score is calculated by multiplying the number of repetitions (reps) by the duration of the workout in minutes (duration) and by an intensity factor that depends on the type of exercise performed.The intensityFactor is determined based on the exerciseType of the session, using the following mapping:
+                    
+                        
+                            
+                                Exercise Type(case-sensitive)
+                                Intensity Factor
+                            
+                        
+                        
+                            
+                                pushup
+                                1.2
+                            
+                            
+                                squat
+                                1.0
+                            
+                            
+                                plank
+                                1.5
+                            
+                            
+                                burpee
+                                1.8
+                            
+                          
+                                Unkown excercise type
+                                0.5
+                            
 
-FixItNow, a home appliance repair company, needs a
-    system to track the repair status of service requests. Each service request is
-    assigned a unique Request ID, and the system must allow technicians to add
-    repair details and retrieve current repair statuses based on this ID. Develop a
-    Java program to help the company effectively manage and monitor these records.
 
-Functional Requirements
-          
-                Req.#
-            
-            
-                Requirement Description
-            
-            
-                Method Name
-            
-            
-                Parameters
-            
-            
-                Description
+                        
+                    Constraints:
+                        
+                    
+                        The calculated fitness score should be returned as double.If the duration is less than 10, return -1 and terminate.
+                    
+
+
+                
             
         
     
     
-        
-            
-                1
-            
-            
-                Add a repair request record to the system
-            
-            
-                addRepairRequests
-            
-            
-                String requestId, String repairStatus
-            
-            
-                This method adds a new requestId and its corresponding repairStatus to
-                    a HashMap named repairMap. 
-                Note: Key = requestId, Value = repairStatus.
-            
-        
-        
-            
-                2
-            
-            
-                Retrieve the repair status for a specific request
-            
-            
-                retrieveRepairStatus
-            
-            
-                String requestId
-            
-            
-                The method retrieves the status of the repair. Returns "The
-                        repair status is <repairStatus> for the request id <requestId>"
-                    if found. Otherwise, returns "The request id <requestId> does
-                        not exist".Condition: The requestId is case-sensitive.This method should return a String.
-            
-        
+    You are provided with the main method in the UserInterface class as code template, and it is excluded from evaluation.
+
+
+
     
-
-
- 
-
-You are provided with the main method as a code template, and it is excluded from evaluation.
-
-Note:
-
-
-    Edit only the RequestSystem class to implement the business
-            requirements. 
-    The methods and the constructor
-            should be public, and the attributes of the class should be private. 
-    In the sample input/output
-            provided, the highlighted text in bold corresponds to the input given by
-            the user and the rest of the text represents the output. 
-    Ensure that the names for
-            classes, attributes, and methods are provided as specified in the question
-            description. 
-    Please do not use
-            System.exit(0); to terminate the program. 
-
-
- 
-
-Sample Input and Output 1:
-
-Enter the number of repair request records to be added
-    3
-    Enter the repair records (Request Id: Repair Status)
-    RQ100:Fixed
-        RQ101:Awaiting Parts
-        RQ102:Scheduled
-    Enter the request Id to find its repair status
-    RQ101
-    The repair status is Awaiting Parts for the request id RQ101
-
-
- 
-
-Sample Input and Output 2:
-
-Enter the number of repair request records to be added
-    2
-    Enter the repair records (Request Id: Repair Status)
-    RQ200:In Progress
-        RQ201:Cancelled
-    Enter the request Id to find its repair status
-    RQ999
-    The request id RQ999 does not exist
+    Note:
+    
+        Edit only the WorkoutSession and WorkoutUtility classes to implement the business requirements.
+        The methods and the constructor should be public, and the attributes of the class should be private.
+        In the Sample Input / Output provided, the highlighted text in bold corresponds to the input given by the user and the rest of the text represents the output.
+        Ensure that the names for classes, attributes, and methods are provided as specified in the question description.
+        Please do not use System.exit(0); to terminate the program.
+    
+        
+        Input Format:  <sessionId>:<exerciseType>:<reps>:<duration>
+        
+        
+            Sample Input / Output 1  
+                Enter workout details: 
+                S1234:plank:30:20
+                Workout Summary:
+                Session Id : S1234
+                Exercise Type : plank
+                Reps : 30
+                Duration (min) : 20
+                Fitness Score : 900.00
+                
+              
+            
+                Sample Input / Output 2
+                 
+                    Enter workout details: 
+                    S1245:Aerobic:30:8
+                    Invalid session details
